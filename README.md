@@ -1,31 +1,25 @@
-# Titulo1
-## Titulo2
-**Letra en negrita**
+# Henrry David Garcia Chiclla
 
-__Este es mi texto 2 en negrita__
+## Sobre mi
 
-*Esto es cursiva 1*
+Como pasatiempo suelo juegar con mis perros, salir a comer con mis amigos, prácticar ciclismo (ocasionalmente) y disfrutar de alguna lectura en las noches. Me encantan carreras como el Tour de Francia, Giro de Italia y animes japoneses.
 
-_Esto es cursiva 2_
+![Foto de perfil](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEn0UNwlg7tq3clsOuyPkMKe_Nwl44BXKbqQ&s)
 
-## Ingredientes del pollo a la brasa
+|Notas 1 | Notas 2 |
+|--------|---------|
+|        |         |
+|        |         |
+|        |         |
+|        |         |
+|        |         |
+|        |         |
+|        |         |
 
-- Pollo
-- Papas
-- Ensalada
-- Carbon
+## Objetivos
+Formarme como un notable desarrollador de software, desarrollar una empresa de software que brinde soluciones tecnologias a muchas personas y colaborar con empresas extranjeras para el desarrollo de software.
 
-### Preparación
-
-1. Lavar el pollo
-2. Lavar las papas
-3. Lavar las verduras
-
-![Pollo a la brasa](https://www.comida-peruana.com/base/stock/Recipe/pollo-a-la-brasa/pollo-a-la-brasa_web.jpg.webp)
-
-[El comercio](https://elcomercio.pe/)
-
-```
-<h1>Hola Mundo</h1>
-
-```
+### Enlaces
+- [Github](https://github.com/HenDGarcia7)
+- [LinkedIn](https://www.linkedin.com/in/henrry-garc%C3%ADa-44820a15a/)
+- [Correo](mailto:henrry.17.16@gmail.com)
