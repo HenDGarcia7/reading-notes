@@ -8,13 +8,16 @@ Como pasatiempo suelo juegar con mis perros, salir a comer con mis amigos, prác
 
 |Notas 1       | Notas 2       |
 |--------------|---------------|
-|        |         |
-|        |         |
-|        |         |
-|        |         |
-|        |         |
-|        |         |
-|        |         |
+|              |               |
+|              |               |
+|              |               |
+|              |               |
+|              |               |
+|              |               |
+|              |               |
+|              |               |
+|              |               |
+|              |               |
 
 ## Objetivos
 Formarme como un notable desarrollador de software, desarrollar una empresa de software que brinde soluciones tecnologias a muchas personas y colaborar con empresas extranjeras para el desarrollo de software.
