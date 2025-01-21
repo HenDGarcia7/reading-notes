@@ -6,8 +6,8 @@ Como pasatiempo suelo juegar con mis perros, salir a comer con mis amigos, prác
 
 ![Foto de perfil](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEn0UNwlg7tq3clsOuyPkMKe_Nwl44BXKbqQ&s)
 
-|Notas 1 | Notas 2 |
-|--------|---------|
+|Notas 1       | Notas 2       |
+|--------------|---------------|
 |        |         |
 |        |         |
 |        |         |
