@@ -8,16 +8,11 @@ Como pasatiempo suelo juegar con mis perros, salir a comer con mis amigos, prác
 
 |Notas 1       | Notas 2       |
 |--------------|---------------|
-|              |               |
-|              |               |
-|              |               |
-|              |               |
-|              |               |
-|              |               |
-|              |               |
-|              |               |
-|              |               |
-|              |               |
+| Notas              |   Notas            |
+|       Notas       | Notas              |
+|    Notas          |   Notas            |
+|        Notas      |      Notas         |
+
 
 ## Objetivos
 Formarme como un notable desarrollador de software, desarrollar una empresa de software que brinde soluciones tecnologias a muchas personas y colaborar con empresas extranjeras para el desarrollo de software.
@@ -25,4 +20,4 @@ Formarme como un notable desarrollador de software, desarrollar una empresa de s
 ### Enlaces
 - [Github](https://github.com/HenDGarcia7)
 - [LinkedIn](https://www.linkedin.com/in/henrry-garc%C3%ADa-44820a15a/)
-- [Correo](mailto:henrry.17.16@gmail.com)
+
