@@ -11,10 +11,10 @@ Como pasatiempo suelo juegar con mis perros, salir a comer con mis amigos, prác
 
 |Notas 1       | Notas 2       |
 |--------------|---------------|
-| Notas              |   Notas            |
-|       Notas       | Notas              |
-|    Notas          |   Notas            |
-|        Notas      |      Notas         |
+| Notas        |Notas          |
+|       Notas  |Notas          |
+|    Notas     |Notas          |
+|        Notas |Notas          |
 
 
 ## Objetivos
@@ -24,3 +24,5 @@ Formarme como un notable desarrollador de software, desarrollar una empresa de s
 - [Github](https://github.com/HenDGarcia7)
 - [LinkedIn](https://www.linkedin.com/in/henrry-garc%C3%ADa-44820a15a/)
 
+### Este es mi segundo comentario en github
+**Este es mi 3er comentario en github**
