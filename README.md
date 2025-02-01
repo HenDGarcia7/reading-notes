@@ -44,6 +44,6 @@ Formarme como un notable desarrollador de software, desarrollar una empresa de s
 
 [Clase 8](https://github.com/HenDGarcia7/reading-notes/blob/main/101/read08.md)
 
-[Clase 9]()
+[Clase 9](https://github.com/HenDGarcia7/reading-notes/blob/main/101/read09.md)
 
-[Clase 10]()
+[Clase 10](https://github.com/HenDGarcia7/reading-notes/blob/main/101/read10.md)
